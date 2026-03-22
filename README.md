@@ -123,9 +123,8 @@ jupyter notebook
 
 ## 👤 Author
 
-**Your Name**
+**Malbari Iqra**
 
-* Malbari Iqra
 
 ---
 
